@@ -1,4 +1,4 @@
-# LSPosed Xposed Module
+# TeleVip LSPosed Module
 A module for modifying Telegram with the following features:
 
 1. Hide "Seen" status for messages.
