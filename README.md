@@ -22,6 +22,10 @@ A module for modifying Telegram with the following features:
 7. Save stories to the gallery, including those that cannot normally be saved.
 
 
+8. Change name (Note: The name changes only on your device).
+
+
+There are additional features that are not listed here.
 
 This module is compatible with the latest version of the official Telegram app.
 You can access the module from the left menu in Telegram.
