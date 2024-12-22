@@ -25,11 +25,16 @@ A module for modifying Telegram with the following features:
 
 8. Change name (Note: The name changes only on your device).
 
+9. Hide Phone Number
+
+10. Hide Online Status
+
+11. Prevent Deletion of Secret Media
 
 There are additional features that are not listed here.
 
 # Support clients
-1. Telegram 11.5.4 (55282)
+1. Telegram 11.5.5 (55312)
 2. Plus 11.5.3.0 (21340)
 3. TG Connect 11.0.1 (1100109)
 4. Skygram 10.20.6 (40639)
@@ -37,6 +42,6 @@ There are additional features that are not listed here.
 6. X Plus 11.5.4 (55159)
 7. Cherrygram 11.5.3 (55110)
 8. Nicegram 1.38.0 (1459)
-9. Nagram 11.4.2 (1200)
+9. Telegram web 11.5.5 (55319)
 
 Developed by an @mustafa1dev
