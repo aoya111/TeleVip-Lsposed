@@ -2,7 +2,7 @@
 
 A module for modifying Telegram with the following features:
 
-1. Hide "Seen" status for messages.
+1. Hide "Seen" status for groups, channels, and private messages.
 
 2. Hide "Typing..." indicator.
 
@@ -25,6 +25,8 @@ A module for modifying Telegram with the following features:
 11. Prevent Deletion of Secret Media
 
 12. Show Deleted Messages
+
+13. Disable Stories
 
 There are additional features that are not listed here.
 
